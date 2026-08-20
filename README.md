@@ -106,6 +106,3 @@ This project's NMPC formulation and MATLAB structure (`shift.m`, `Draw_MPC_point
 
 Per that repo's request, if you use this work academically, please cite Mehrez's related publications (listed on his [Google Scholar](https://scholar.google.ca/citations?user=aRNeH4QAAAAJ&hl=en)) alongside this project.
 
-## License
-
-See [`LICENSE`](LICENSE). CasADi itself is separately licensed (LGPL) and must be obtained from its own project — see the dependency note above.

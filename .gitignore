@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.slxc
+octave-workspace
+
+# C++ / CMake build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.obj
+*.out
+*.exe
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp

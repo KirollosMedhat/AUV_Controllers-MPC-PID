@@ -11,7 +11,7 @@ Graduation project: a Nonlinear Model Predictive Controller (NMPC) for horizonta
 - [Depth control — `depth_control/`](#depth-control--depth_control)
 - [C++ / ROS-oriented port — `ros_cpp/`](#c--ros-oriented-port--ros_cpp)
 - [Known differences between the MATLAB and C++ controllers](#known-differences-between-the-matlab-and-c-controllers)
-- [Background](#background)
+- [Credits](#Credits)
 
 ## Demo
 
